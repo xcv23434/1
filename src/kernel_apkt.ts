@@ -1,0 +1,1 @@
+const service_apkt = <T>(args: T): T => { return args; };
